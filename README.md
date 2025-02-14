@@ -43,8 +43,6 @@ To identify patterns and trends impacting patient care and provide insights and 
 ### **Unassisted Falls**
 - Ranges from **0.10 to 0.34**, with an average of **0.26**, showing a safety concern that could increase with high bed occupancy and slower staff response.
 
-![Bed Occupancy and Staff Performance](https://github.com/user-attachments/assets/983db49b-6ba9-4c77-8438-691e029eb612)
-
 ![image](https://github.com/user-attachments/assets/29dcc90a-2a08-4561-baaf-35300e7a7278)
 
 
